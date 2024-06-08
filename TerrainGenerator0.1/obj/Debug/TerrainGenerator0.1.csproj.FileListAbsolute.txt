@@ -1,0 +1,17 @@
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\TerrainGenerator0.1.exe
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\TerrainGenerator0.1.pdb
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Антон\source\repos\TerrainGenerator0.1\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0.1.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0._1.Form1.resources
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0._1.Properties.Resources.resources
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0.1.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0.1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainG.3CED97B1.Up2Date
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0.1.exe
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0.1.pdb
+C:\Users\Антон\source\repos\TerrainGenerator0.1\obj\Debug\TerrainGenerator0._1.MainMenu.resources
